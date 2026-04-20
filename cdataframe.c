@@ -10,6 +10,7 @@
 #include "column.h"
 #include "sort.h"
 #include "double-linked-list.h"
+#include <errno.h>
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
